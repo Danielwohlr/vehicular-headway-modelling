@@ -1,5 +1,7 @@
+% auxiliary function for computing the cluster function
+
 function [x,r,l] = vypocet_shluk(f)
-    %input je napø '@(x) 16*x.*exp(-4*x)'
+    %input je napï¿½ '@(x) 16*x.*exp(-4*x)'
     %output jsou 3 vektory x,r a l
     DX=0.001; %delka kroku
     MAXM=40; %pocet konvoluci

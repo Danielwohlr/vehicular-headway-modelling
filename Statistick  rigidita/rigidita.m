@@ -1,3 +1,4 @@
+% plots the 'rigidity function'
 function rigidita(X1, YMatrix1)
 %CREATEFIGURE(X1, YMatrix1)
 %  X1:  vector of x data

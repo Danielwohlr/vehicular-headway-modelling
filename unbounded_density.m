@@ -1,3 +1,5 @@
+% Balanced density its derivative is not bounded
+
 clear all
 clc
 % x=0:.001:3;

@@ -1,4 +1,6 @@
-function plot_shluk(X1, YMatrix1) % napø.  plot_shluk(y,[gg ; hh ; kk])
+% plots the 'cluster function' r(x) 
+
+function plot_shluk(X1, YMatrix1) % napï¿½.  plot_shluk(y,[gg ; hh ; kk])
 %CREATEFIGURE(X1, YMatrix1)
 %  X1:  vector of x data
 %  YMATRIX1:  matrix of y data
