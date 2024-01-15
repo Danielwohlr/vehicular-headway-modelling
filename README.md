@@ -7,7 +7,7 @@ modeling vehicle headways. The __full paper is available here__: [Full paper](th
 sociated particle systems. 
 - We presented a unification procedure that is used for analysing traffic data and
 by applying this procedure to real data (recorded at a Dutch freeway) __we verified__, using methods of
-regression analysis, the balancing property of time clearances. 
+regression analysis, __the balancing property of time clearances__. 
 - Further, we rigorously defined statistical
 rigidity and __via the central limit theorem we derived__ the dependency of statistical compressibility on
 parametres belonging tu Erlang’s density function. 
