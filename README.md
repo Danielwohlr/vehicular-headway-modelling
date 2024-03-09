@@ -3,8 +3,7 @@
 This thesis deals with particle systems with a balancing property which have practical use in
 modeling vehicle headways. The __full paper is available here__: [Full paper](thesis.pdf) (2nd place at [scientific conference in 2020](https://mat.fsv.cvut.cz/rektorys/soutez/2020/)).
 
-- First, we summarized basic properties of balanced density functions and as-
-sociated particle systems. 
+- First, we summarized basic properties of balanced density functions and associated particle systems. 
 - We presented a unification procedure that is used for analysing traffic data and
 by applying this procedure to real data (recorded at a Dutch freeway) __we verified__, using methods of
 regression analysis, __the balancing property of time clearances__. 
